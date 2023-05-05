@@ -1,0 +1,21 @@
+topic_id,0,1,2,3,4,5,6,7,8,9,label,doc_weight_sum,term_freq
+T00,room,man,door,hand,time,house,face,way,yes,night,"T00 room, man, door, hand, time, house, face, way, yes, night",18.30154644944081,0.12121549217809821
+T01,monsieur,magistrate,man,madame,crime,woman,head,door,yes,time,"T01 monsieur, magistrate, man, madame, crime, woman, head, door, yes, time",14.32985032321914,0.03726945583564943
+T02,man,night,room,way,time,sir,bicycle,candle,fellow,moment,"T02 man, night, room, way, time, sir, bicycle, candle, fellow, moment",4.397133692225078,0.014698129594924999
+T03,man,case,time,way,friend,hound,mutton,death,day,matter,"T03 man, case, time, way, friend, hound, mutton, death, day, matter",3.565127266577435,0.013484161379659906
+T04,tuppence,woman,bell,door,visitor,day,girl,maam,kind,money,"T04 tuppence, woman, bell, door, visitor, day, girl, maam, kind, money",0.5601470833446451,0.0029751894580824587
+T05,dictaphone,murderer,person,summer house,shoes,crime,summer,house,point,time,"T05 dictaphone, murderer, person, summer house, shoes, crime, summer, house, point, time",2.29671530124197,0.006846213699034549
+T06,man,time,way,night,hand,thing,place,head,house,things,"T06 man, time, way, night, hand, thing, place, head, house, things",13.010936406868822,0.04212825167792165
+T07,hound,moor,fog,initials,path,creature,seaman,track,game,mire,"T07 hound, moor, fog, initials, path, creature, seaman, track, game, mire",0.6896379271265913,0.005249834330373598
+T08,man,house,room,case,way,face,time,thing,hand,eyes,"T08 man, house, room, case, way, face, time, thing, hand, eyes",7.519121886160652,0.030058443411869164
+T09,deck,cabin,man,thing,hand,way,head,night,years,people,"T09 deck, cabin, man, thing, hand, way, head, night, years, people",7.201401556792049,0.019573954395908467
+T10,man,time,house,head,yes,way,thing,room,door,face,"T10 man, time, house, head, yes, way, thing, room, door, face",62.95636431020839,0.18396272137399178
+T11,cabin,stewardess,miss,bunk,feet,wound,im,trunk,drunk,im sorry,"T11 cabin, stewardess, miss, bunk, feet, wound, im, trunk, drunk, im sorry",0.3719801321420621,0.0023552598173261306
+T12,chess,course,morning,savaronoff,yes,hand,people,reason,day,voice,"T12 chess, course, morning, savaronoff, yes, hand, people, reason, day, voice",1.088276981501658,0.0030710930351137903
+T13,man,time,way,case,day,photograph,matter,thing,eyes,course,"T13 man, time, way, case, day, photograph, matter, thing, eyes, course",6.573126187643619,0.01826550851557379
+T14,man,face,time,way,hand,night,day,eyes,men,moor,"T14 man, face, time, way, hand, night, day, eyes, men, moor",30.740708328654666,0.163359441608528
+T15,man,room,house,door,time,sir,way,matter,case,hand,"T15 man, room, house, door, time, sir, way, matter, case, hand",18.575287840691033,0.10727451605593286
+T16,time,man,yes,way,room,head,hand,door,face,eyes,"T16 time, man, yes, way, room, head, hand, door, face, eyes",44.32518484991726,0.2123031309143344
+T17,accident,words,doctor,case,questions,newspaper,service,mystery,success,dinner,"T17 accident, words, doctor, case, questions, newspaper, service, mystery, success, dinner",1.0272734533959276,0.003972052068136292
+T18,inspector,man,book,dagger,words,letter,door,way,cipher,page,"T18 inspector, man, book, dagger, words, letter, door, way, cipher, page",3.4398945215046592,0.010228006042231896
+T19,watched,chairman,devices,changed,recovery,tactics,sense humour,diamonds possession,flicker,assembly,"T19 watched, chairman, devices, changed, recovery, tactics, sense humour, diamonds possession, flicker, assembly",0.030285501343513013,0.0017091446073086215
